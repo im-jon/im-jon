@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Jon! 👋
 
 <!--
 **im-jon/im-jon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about: .NET, DDD, automated testing, design patterns or anything related to software architecture!
+- 🌱 I’m currently learning: data engineering
