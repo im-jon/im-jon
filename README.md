@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me about: .NET, DDD, automated testing, design patterns or anything related to software architecture!
+- 🔭 I’m currently working on: building my blog
 - 🌱 I’m currently learning: data engineering
